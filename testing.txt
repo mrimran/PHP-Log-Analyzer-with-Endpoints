@@ -1,0 +1,6 @@
+Generated on: 2014-11-27 12:52:27
+
+-GET /api/users/{user_id}/count_pending_messages
+	# URL was called: 1, Response time Mean/Avg: 18ms, Response time Median: 9ms, Response time Mode: 18ms, Dyno(s) that responded the most: web.8
+
+
